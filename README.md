@@ -1,4 +1,4 @@
-# Face-recognition
+# Face_recognition
 Simple facial recognation program writen in python by me.
 # Usage
 1. Install opencv-python.
